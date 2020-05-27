@@ -1,0 +1,23 @@
+${AnsiColor.RED}
+//////////////////////////////////////////////////////////////////// ${AnsiColor.YELLOW}
+//                          _ooOoo_                               // ${AnsiColor.MAGENTA}
+//                         o8888888o                              // ${AnsiColor.GREEN}
+//                         88" . "88                              // ${AnsiColor.CYAN}
+//                         (| ^_^ |)                              // ${AnsiColor.RED}
+//                         O\  =  /O                              // ${AnsiColor.YELLOW}
+//                      ____/`---'\____                           // ${AnsiColor.MAGENTA}
+//                    .'  \\|     |//  `.                         // ${AnsiColor.GREEN}
+//                   /  \\|||  :  |||//  \                        // ${AnsiColor.CYAN}
+//                  /  _||||| -:- |||||-  \                       // ${AnsiColor.RED}
+//                  |   | \\\  -  /// |   |                       // ${AnsiColor.YELLOW}
+//                  | \_|  ''\---/''  |   |                       // ${AnsiColor.MAGENTA}
+//                  \  .-\__  `-`  ___/-. /                       // ${AnsiColor.GREEN}
+//                ___`. .'  /--.--\  `. . ___                     // ${AnsiColor.CYAN}
+//              ."" '<  `.___\_<|>_/___.'  >'"".                  // ${AnsiColor.RED}
+//            | | :  `- \`.;`\ _ /`;.`/ - ` : | |                 // ${AnsiColor.YELLOW}
+//            \  \ `-.   \_ __\ /__ _/   .-` /  /                 // ${AnsiColor.MAGENTA}
+//      ========`-.____`-.___\_____/___.-`____.-'========         // ${AnsiColor.GREEN}
+//                           `=---='                              // ${AnsiColor.CYAN}
+//      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^        // ${AnsiColor.RED}
+//             佛祖保佑       永不宕机      永无BUG               // ${AnsiColor.YELLOW}
+////////////////////////////////////////////////////////////////////

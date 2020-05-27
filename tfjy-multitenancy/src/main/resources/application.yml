@@ -1,0 +1,21 @@
+server:
+  port: 9016
+spring:
+  application:
+    name: tfjy-auth3-multitenancy-service
+  zipkin:
+    base-url: http://114.55.27.152:9411
+  sleuth:
+    sampler:
+      probability: 1
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 114.55.27.152:8848
+
+feign:
+  hystrix:
+    enabled: true
+
+service-url:
+  rbac-service: http://tfjy-auth3-rbac-service

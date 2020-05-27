@@ -1,0 +1,9 @@
+server:
+  port: 9026
+spring:
+  application:
+    name: tfjy-auth3-job-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 114.55.27.152:8848

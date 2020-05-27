@@ -1,0 +1,9 @@
+server:
+  port: 9021
+spring:
+  application:
+    name: tfjy-auth3-message-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 114.55.27.152:8848

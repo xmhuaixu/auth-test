@@ -1,0 +1,23 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: tfjy-auth3-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 114.55.27.152:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: multi_routh
+          uri: lb://tfjy-auth3-multitenancy-service
+          predicates:
+            - Path=/multitenancy/**
+
+        - id: rbac_routh
+          uri: lb://tfjy-auth3-rbac-service
+          predicates:
+            - Path=/rbac/**
