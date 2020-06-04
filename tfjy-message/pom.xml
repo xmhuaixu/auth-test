@@ -38,7 +38,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
         </dependency>
 
-        <!--rabbitmq-->
+        <!--rabbitmq 第一版暂时不需要-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-amqp</artifactId>
